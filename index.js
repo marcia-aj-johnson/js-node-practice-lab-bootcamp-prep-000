@@ -3,7 +3,7 @@
 var name = "Joe"
 var height = "74"
 
-console.log(""nodejs index.JSONName":")
+console.log(""Name":")
 console.log(name)
 
 console.log("Height:")
